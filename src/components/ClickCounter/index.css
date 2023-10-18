@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.red-color {
+  color: #c20a72;
+}
+.cont-button {
+  background-color: #007bff;
+  border-style: none;
+  height: 30px;
+  color: white;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
